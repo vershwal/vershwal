@@ -40,14 +40,14 @@
 <br>
 
 # **Experience**
-[<img align="center" title="SDE-I | Flipkart" alt="Flipkart" width="26px" src="img/flipkart-ico.svg" />](#)
+[<img align="center" title="SDE-I | Flipkart" alt="Flipkart" width="26px" src="https://user-images.githubusercontent.com/44945139/89130408-3996a600-d522-11ea-86ee-43a5a19d04f2.png" />](#)
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios/50/000000/vertical-line.png" />](#)
-[<img align="center" title="Google Summer of Code 2018" alt="Google Summer of Code 2018" width="26px" src="img/gsoc.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Google Summer of Code 2018" alt="Google Summer of Code 2018" width="26px" src="https://user-images.githubusercontent.com/44945139/89130602-c1c97b00-d523-11ea-8eb1-aa5e268e6e7e.png" />](#)&nbsp;&nbsp;
 [<img align="center" title="OpenStreetMap" alt="OpenStreetMap" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/openstreetmap.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="iD Editor" alt="iD Editor" width="26px" src="img/ideditor.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="iD Editor" alt="iD Editor" width="26px" src="https://user-images.githubusercontent.com/44945139/89130615-ed4c6580-d523-11ea-85fe-a75a05ec4649.png" />](#)&nbsp;&nbsp;
 [<img align="center" title="Mozilla" alt="Mozilla" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mozilla.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="VISA Inc." alt="VISA Inc." height="26px" src="img/visa.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="Outreachy" alt="Outreachy" height="40px" src="img/outreachy.svg" />](#)
+[<img align="center" title="VISA Inc." alt="VISA Inc." height="24px" src="https://user-images.githubusercontent.com/44945139/89130634-1240d880-d524-11ea-81cb-9417f17ca672.png" />](#)&nbsp;&nbsp;
+[<img align="center" title="Outreachy" alt="Outreachy" height="24px" src="https://user-images.githubusercontent.com/44945139/89130626-048b5300-d524-11ea-8446-01ba36d7f655.png" />](#)
 
 <br>
 
