@@ -18,24 +18,44 @@
 
 <br>
 
+
+
+[<img align="center" title="GIT" alt="GIT" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Github" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Terminal" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/100/000000/console.png" />](#)&nbsp;
+[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
+
+
+
+
 # **Skills**
-### [<img align="center" title="Programming" alt="Code" width="26px" src="https://img.icons8.com/material-sharp/96/000000/source-code.png" />](#)&nbsp;*Tools & Technologies*
+### [<img align="center" title="Tools" alt="Tools" height="20px" src="https://image.flaticon.com/icons/svg/3014/3014274.svg" />](#)&nbsp;*Tools*
 [<img align="center" title="Sublime Text" alt="Sublime Text" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/sublimetext.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="GIT" alt="GIT" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/git.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Github" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/github.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Terminal" alt="Terminal" width="26px" src="https://img.icons8.com/ios-filled/100/000000/console.png" />](#)
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
+[<img align="center" title="npm" alt="npm" height="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/npm.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Yarn" alt="yarn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/yarn.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="ESLint" alt="ESLint" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/eslint.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Pop!_OS by System76" alt="pop_os" width="26px" src="https://user-images.githubusercontent.com/44945139/89137908-50a3bb00-d557-11ea-8bab-7018e13844b0.png" />](https://pop.system76.com/)
+
+### [<img align="center" title="Programming" alt="Code" width="26px" src="https://img.icons8.com/material-sharp/96/000000/source-code.png" />](#)&nbsp;*TechStack*
 [<img align="center" title="React" alt="react" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/react.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="D3.js" alt="D3.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/d3-dot-js.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="JavaScript" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/javascript.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="Node.js" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/node-dot-js.svg" />](#)
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
-[<img align="center" title="Java" alt="Java" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg" />](#)&nbsp;&nbsp;
 [<img align="center" title="MySQL" alt="MySQL" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mysql.svg" />](#)&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="center" title="Redis" alt="Redis" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/redis.svg" />](#)&nbsp;&nbsp;
-[<img align="center" title="MongoDB" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mongodb.svg" />](#)
+[<img align="center" title="MongoDB" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/mongodb.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Hazelcast" alt="Hazelcast" width="24px" src="https://user-images.githubusercontent.com/44945139/89170052-bbc3b080-d59c-11ea-9b75-a005acc7df12.png" />](#)&nbsp;
 [<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
-[<img align="center" title="C++" alt="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="Java" alt="Java" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/java.svg" />](#)&nbsp;&nbsp;
+[<img align="center" title="C++" alt="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/cplusplus.svg" />](#)
+[<img align="center" height="25px" width="30px" src="https://img.icons8.com/ios-filled/50/000000/vertical-line.png" />](#)
+[<img align="center" title="Apache Kafka" alt="kafka" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/apachekafka.svg" />](#)&nbsp;&nbsp;
+
 
 <br>
 
@@ -73,7 +93,7 @@
 &nbsp;&nbsp;&nbsp;
 [<img align="center" alt="instagram" title="Princi Vershwal | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/instagram.svg" />][instagram]
 &nbsp;&nbsp;&nbsp;
-<!-- [<img align="center" alt="facebook" title="Princi Vershwal | Facebook" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook] -->
+[<img align="center" alt="facebook" title="Princi Vershwal | Facebook" width="27px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.3.0/icons/facebook.svg" />][facebook]
 
 [linkedin]: https://www.linkedin.com/in/princi-vershwal-a73707104/
 [instagram]: https://www.instagram.com/princi.vershwal/
