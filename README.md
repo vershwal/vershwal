@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 ### You can also find me on...
 
-<a href="https://www.instagram.com/princi.vershwal/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/vershwal" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/princi.vershwal/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/vershwal" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;
 <a href="mailto:vershwal.princi@gmail.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="Gmail" width="30" height="30"/></a>
