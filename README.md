@@ -1,5 +1,7 @@
 ## Hello👋 I'm Princi 👩🏻‍💻
 
+I am a fullstack developer from India 🇮🇳 I am working as a Product Engineer at [Ghost.org](https://ghost.org/)
+
 ### Currently I am working on...
 
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;&nbsp;
